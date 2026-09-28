@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
+  <title id="title">Bolo de chocolate</title>
+  <desc id="desc">Ilustração simples de um bolo de chocolate</desc>
+  <rect width="800" height="500" fill="#e9d2ba"/>
+  <rect x="90" y="150" width="620" height="210" rx="24" fill="#5a351c"/>
+  <rect x="120" y="180" width="560" height="150" rx="18" fill="#7a4a2a"/>
+  <path d="M110 155h580c20 0 35 15 35 35s-15 35-35 35H110c-20 0-35-15-35-35s15-35 35-35z" fill="#3b2415"/>
+  <circle cx="230" cy="255" r="18" fill="#f5c96b"/>
+  <circle cx="310" cy="255" r="18" fill="#f5c96b"/>
+  <circle cx="390" cy="255" r="18" fill="#f5c96b"/>
+  <circle cx="470" cy="255" r="18" fill="#f5c96b"/>
+  <circle cx="550" cy="255" r="18" fill="#f5c96b"/>
+  <path d="M240 115c0 0 25-35 60-35s60 35 60 35-25 35-60 35-60-35-60-35z" fill="#ffffff"/>
+  <path d="M360 105c0 0 25-35 60-35s60 35 60 35-25 35-60 35-60-35-60-35z" fill="#f8f8f8"/>
+  <path d="M480 115c0 0 25-35 60-35s60 35 60 35-25 35-60 35-60-35-60-35z" fill="#ffffff"/>
+</svg>

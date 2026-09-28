@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
+  <title id="title">Strogonoff</title>
+  <desc id="desc">Ilustração simples de um prato de strogonoff com arroz e batata palha</desc>
+  <rect width="800" height="500" fill="#eef2e7"/>
+  <ellipse cx="400" cy="280" rx="260" ry="150" fill="#d9e0d0"/>
+  <ellipse cx="400" cy="270" rx="220" ry="120" fill="#ffffff"/>
+  <path d="M250 270c30-40 80-70 150-70s120 30 150 70c-35 25-90 40-150 40s-115-15-150-40z" fill="#e36b5b"/>
+  <circle cx="330" cy="250" r="18" fill="#7b4b2a"/>
+  <circle cx="390" cy="235" r="18" fill="#7b4b2a"/>
+  <circle cx="455" cy="255" r="18" fill="#7b4b2a"/>
+  <path d="M520 155h120l-25 90H545z" fill="#f3d36b"/>
+  <path d="M550 155l20 90" stroke="#d4b94f" stroke-width="10"/>
+  <path d="M580 155l20 90" stroke="#d4b94f" stroke-width="10"/>
+  <path d="M610 155l20 90" stroke="#d4b94f" stroke-width="10"/>
+  <circle cx="265" cy="175" r="28" fill="#ead8b4"/>
+  <circle cx="245" cy="200" r="20" fill="#ead8b4"/>
+  <circle cx="295" cy="205" r="20" fill="#ead8b4"/>
+</svg>

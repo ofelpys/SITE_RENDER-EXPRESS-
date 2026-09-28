@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
+  <title id="title">Bolo de cenoura</title>
+  <desc id="desc">Ilustração simples de um bolo de cenoura</desc>
+  <rect width="800" height="500" fill="#f8d29b"/>
+  <rect x="80" y="140" width="640" height="220" rx="24" fill="#d97c3b"/>
+  <rect x="110" y="170" width="580" height="160" rx="18" fill="#f2a35a"/>
+  <rect x="150" y="110" width="500" height="70" rx="16" fill="#6b3f27"/>
+  <circle cx="210" cy="250" r="26" fill="#f6c13d"/>
+  <circle cx="290" cy="250" r="26" fill="#f6c13d"/>
+  <circle cx="370" cy="250" r="26" fill="#f6c13d"/>
+  <circle cx="450" cy="250" r="26" fill="#f6c13d"/>
+  <circle cx="530" cy="250" r="26" fill="#f6c13d"/>
+  <circle cx="610" cy="250" r="26" fill="#f6c13d"/>
+  <path d="M400 90c40 0 70 30 70 70s-30 70-70 70-70-30-70-70 30-70 70-70z" fill="#ff9f2f"/>
+  <path d="M400 110c14 20 16 46 6 70-9 20-26 36-49 44 8-31 26-57 43-79 8-11 15-22 19-35z" fill="#2f8f4e"/>
+</svg>
